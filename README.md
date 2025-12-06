@@ -13,5 +13,7 @@ The application is built with Python and provides a Gradio interface for easy in
 ```bash
 pip install -r requirements.txt
 
+![alt text](WORK IMAGE.png)
+
 
 
