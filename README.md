@@ -14,3 +14,4 @@ The application is built with Python and provides a Gradio interface for easy in
 pip install -r requirements.txt
 
 
+
