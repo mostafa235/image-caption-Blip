@@ -12,3 +12,5 @@ The application is built with Python and provides a Gradio interface for easy in
 ## Installation
 ```bash
 pip install -r requirements.txt
+
+<img width="1348" height="567" alt="WORK IMAGE" src="https://github.com/user-attachments/assets/0096d4d1-2cba-4d53-beb0-b0c61d4d3667" />
