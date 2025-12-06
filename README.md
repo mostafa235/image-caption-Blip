@@ -8,12 +8,14 @@ The application is built with Python and provides a Gradio interface for easy in
 - Ignores SVG and very small images
 - Generates captions using BLIP large model
 - Displays images and captions in a Gradio gallery
-
+#
+![alt text](WORK%20IMAGE.png)
 ## Installation
 ```bash
 pip install -r requirements.txt
 
-![alt text](WORK%20IMAGE.png)
+
+
 
 
 
